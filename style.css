@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #17A2B8;
+  background: #020122;
 }
 ::selection{
   color: #fff;
@@ -97,7 +97,7 @@ body{
   font-size: 16px;
   cursor: pointer;
   border-radius: 5px;
-  background: #17A2B8;
+  background: #020122;
   transition: transform 0.3s ease;
 }
 .content button:active{
